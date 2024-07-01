@@ -1,2 +1,1 @@
 nastools/nas-tools
---platform=linux/arm64
