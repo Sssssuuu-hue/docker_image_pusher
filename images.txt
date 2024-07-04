@@ -3,3 +3,4 @@ nastools/nas-tools
 xiaoyaliu/alist
 xhofe/alist
 hsuyelin/nas-tools
+linuxserver/jackett
