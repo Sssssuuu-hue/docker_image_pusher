@@ -5,3 +5,4 @@ xhofe/alist
 hsuyelin/nas-tools
 linuxserver/jackett
 allanpk716/chinesesubfinder
+funcman/115pc
