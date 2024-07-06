@@ -1,8 +1,1 @@
-nastools/nas-tools
-19970688/nastools-bt
-xiaoyaliu/alist
-xhofe/alist
-hsuyelin/nas-tools
-linuxserver/jackett
-allanpk716/chinesesubfinder
-funcman/115pc
+linuxserver/qbittorrent
