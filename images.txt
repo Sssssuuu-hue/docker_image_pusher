@@ -1,1 +1,1 @@
-Python
+amd64/python
